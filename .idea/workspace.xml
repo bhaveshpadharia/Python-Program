@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a17f917f-8757-41b4-ae09-dc993a9aebf2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/area of a triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic Python Program/area of a triangle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arithmetical operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic Python Program/arithmetical operations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/convert kilometers to miles.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic Python Program/convert kilometers to miles.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic Python Program/hello.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solve quadratic equation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic Python Program/solve quadratic equation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swap two variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic Python Program/swap two variables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,11 +33,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Basic Python Program/convert kilometers to miles.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Basic Python Program/generate a random number.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="30" lean-forward="true" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Basic Python Program/convert Celsius to Fahrenheit.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Basic Python Program/display calendar.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -71,6 +93,9 @@
         <option value="$PROJECT_DIR$/solve quadratic equation.py" />
         <option value="$PROJECT_DIR$/swap two variables.py" />
         <option value="$PROJECT_DIR$/convert kilometers to miles.py" />
+        <option value="$PROJECT_DIR$/Basic Python Program/generate a random number.py" />
+        <option value="$PROJECT_DIR$/Basic Python Program/convert Celsius to Fahrenheit.py" />
+        <option value="$PROJECT_DIR$/Basic Python Program/display calendar.py" />
       </list>
     </option>
   </component>
@@ -127,6 +152,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Basic Python Program" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -139,7 +169,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.convert kilometers to miles">
+  <component name="RunManager" selected="Python.display calendar">
     <configuration type="PythonConfigurationType" factoryName="Python">
       <module name="Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,7 +192,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="area of a triangle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="convert Celsius to Fahrenheit" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,34 +200,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic Python Program" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic Python Program/area of a triangle.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="arithmetical operations" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic Python Program/arithmetical operations.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic Python Program/convert Celsius to Fahrenheit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -228,7 +236,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="solve quadratic equation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="display calendar" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -236,12 +244,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic Python Program" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic Python Program/solve quadratic equation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic Python Program/display calendar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generate a random number" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic Python Program" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic Python Program/generate a random number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -274,19 +304,19 @@
     </configuration>
     <list>
       <item itemvalue="Python." />
-      <item itemvalue="Python.arithmetical operations" />
-      <item itemvalue="Python.area of a triangle" />
-      <item itemvalue="Python.solve quadratic equation" />
       <item itemvalue="Python.swap two variables" />
       <item itemvalue="Python.convert kilometers to miles" />
+      <item itemvalue="Python.generate a random number" />
+      <item itemvalue="Python.convert Celsius to Fahrenheit" />
+      <item itemvalue="Python.display calendar" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.display calendar" />
+        <item itemvalue="Python.convert Celsius to Fahrenheit" />
+        <item itemvalue="Python.generate a random number" />
         <item itemvalue="Python.convert kilometers to miles" />
         <item itemvalue="Python.swap two variables" />
-        <item itemvalue="Python.solve quadratic equation" />
-        <item itemvalue="Python.area of a triangle" />
-        <item itemvalue="Python.arithmetical operations" />
       </list>
     </recent_temporary>
   </component>
@@ -300,7 +330,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559026248814</updated>
-      <workItem from="1559026253449" duration="6507000" />
+      <workItem from="1559026253449" duration="9286000" />
     </task>
     <task id="LOCAL-00001" summary="hello world">
       <created>1559028381018</created>
@@ -351,11 +381,32 @@
       <option name="project" value="LOCAL" />
       <updated>1559036429457</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Python program to generate a random number&#10;In Python programming, you can generate a random integer, doubles, longs etc . in various ranges by importing a &quot;random&quot; class.&#10;&#10;Syntax:&#10;&#10;First you have to import the random module and then apply the syntax:&#10;&#10;import random  &#10;random.randint(a,b)">
+      <created>1559037512644</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1559037512644</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Python program to convert Celsius to Fahrenheit&#10;Celsius:&#10;&#10;Celsius is a unit of measurement for temperature. It is also known as centigrade. It is a SI derived unit used by most of the countries worldwide.&#10;&#10;It is named after the Swedish astronomer Anders Celsius.&#10;&#10;Fahrenheit:&#10;&#10;Fahrenheit is also a temperature scale. It is named on Polish-born German physicist Daniel Gabriel Fahrenheit. It uses degree Fahrenheit as a unit for temperature.&#10;&#10;Conversion formula:&#10;&#10;T(℉) = T(℃) x 9/5 + 32&#10;Or,&#10;&#10;T(℉) = T(℃) x 1.8 + 32">
+      <created>1559037622025</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1559037622025</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Python program to display calendar&#10;It is simple in python programming to display calendar. To do so, you need to import the calendar module which comes with Python.&#10;&#10;import calendar  &#10; And then apply the syntax  &#10;(calendar.month(yy,mm))">
+      <created>1559038665405</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1559038665405</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6507000" />
+    <option name="totallyTimeSpent" value="9286000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
@@ -367,7 +418,7 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.20249653" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.6740638" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -393,14 +444,20 @@
     <MESSAGE value="Python program to solve quadratic equation&#10;Quadratic equation:&#10;&#10;Quadratic equation is made from a Latin term &quot;quadrates&quot; which means square. It is a special type of equation having the form of:&#10;&#10;ax2+bx+c=0&#10;Here, &quot;x&quot; is unknown which you have to find and &quot;a&quot;, &quot;b&quot;, &quot;c&quot; specifies the numbers such that &quot;a&quot; is not equal to 0. If a = 0 then the equation becomes liner not quadratic anymore.&#10;&#10;In the equation, a, b and c are called coefficients.&#10;&#10;Let's take an example to solve the quadratic equation 8x2 + 16x + 8 = 0" />
     <MESSAGE value="Python program to swap two variables&#10;Variable swapping:&#10;&#10;In computer programming, swapping two variables specifies the mutual exchange of values of the variables. It is generally done by using a temporary variable.&#10;&#10;For example:&#10;&#10;data_item x := 1  &#10;data_item y := 0  &#10;swap (x, y)  &#10;After swapping:&#10;&#10;data_item x := 0  &#10;data_item y := 1" />
     <MESSAGE value="Python program to convert kilometers to miles&#10;Here, we are going to see the python program to convert kilometers to miles. Let's understand kilometers and miles first.&#10;&#10;Kilometer:&#10;&#10;The kilometer is a unit of length in the metric system. It is equivalent to 1000 meters.&#10;&#10;Miles:&#10;&#10;Mile is also the unit of length. It is equal to 1760 yards.&#10;&#10;Conversion formula:&#10;&#10;1 kilometer is equal to 0.62137 miles.&#10;&#10;Miles = kilometer * 0.62137   &#10;Kilometer = Miles / 0.62137" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python program to convert kilometers to miles&#10;Here, we are going to see the python program to convert kilometers to miles. Let's understand kilometers and miles first.&#10;&#10;Kilometer:&#10;&#10;The kilometer is a unit of length in the metric system. It is equivalent to 1000 meters.&#10;&#10;Miles:&#10;&#10;Mile is also the unit of length. It is equal to 1760 yards.&#10;&#10;Conversion formula:&#10;&#10;1 kilometer is equal to 0.62137 miles.&#10;&#10;Miles = kilometer * 0.62137   &#10;Kilometer = Miles / 0.62137" />
+    <MESSAGE value="Python program to generate a random number&#10;In Python programming, you can generate a random integer, doubles, longs etc . in various ranges by importing a &quot;random&quot; class.&#10;&#10;Syntax:&#10;&#10;First you have to import the random module and then apply the syntax:&#10;&#10;import random  &#10;random.randint(a,b)" />
+    <MESSAGE value="Python program to convert Celsius to Fahrenheit&#10;Celsius:&#10;&#10;Celsius is a unit of measurement for temperature. It is also known as centigrade. It is a SI derived unit used by most of the countries worldwide.&#10;&#10;It is named after the Swedish astronomer Anders Celsius.&#10;&#10;Fahrenheit:&#10;&#10;Fahrenheit is also a temperature scale. It is named on Polish-born German physicist Daniel Gabriel Fahrenheit. It uses degree Fahrenheit as a unit for temperature.&#10;&#10;Conversion formula:&#10;&#10;T(℉) = T(℃) x 9/5 + 32&#10;Or,&#10;&#10;T(℉) = T(℃) x 1.8 + 32" />
+    <MESSAGE value="Python program to display calendar&#10;It is simple in python programming to display calendar. To do so, you need to import the calendar module which comes with Python.&#10;&#10;import calendar  &#10; And then apply the syntax  &#10;(calendar.month(yy,mm))" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python program to display calendar&#10;It is simple in python programming to display calendar. To do so, you need to import the calendar module which comes with Python.&#10;&#10;import calendar  &#10; And then apply the syntax  &#10;(calendar.month(yy,mm))" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Practice$area_of_a_triangle.coverage" NAME="area of a triangle Coverage Results" MODIFIED="1559035305125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Practice$p1.coverage" NAME="p1 Coverage Results" MODIFIED="1559029490057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Practice$generate_a_random_number.coverage" NAME="generate a random number Coverage Results" MODIFIED="1559037491843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Python Program" />
     <SUITE FILE_PATH="coverage/Practice$arithmetical_operations.coverage" NAME="arithmetical operations Coverage Results" MODIFIED="1559035109027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Practice$swap_two_variables.coverage" NAME="swap two variables Coverage Results" MODIFIED="1559035707598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Practice$convert_kilometers_to_miles.coverage" NAME="convert kilometers to miles Coverage Results" MODIFIED="1559036364612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Practice$convert_Celsius_to_Fahrenheit.coverage" NAME="convert Celsius to Fahrenheit Coverage Results" MODIFIED="1559037597337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Python Program" />
+    <SUITE FILE_PATH="coverage/Practice$display_calendar.coverage" NAME="display calendar Coverage Results" MODIFIED="1559038637397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Python Program" />
     <SUITE FILE_PATH="coverage/Practice$solve_quadratic_equation.coverage" NAME="solve quadratic equation Coverage Results" MODIFIED="1559035547151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
@@ -457,6 +514,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic Python Program/generate a random number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="30" lean-forward="true" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic Python Program/convert Celsius to Fahrenheit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic Python Program/display calendar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
