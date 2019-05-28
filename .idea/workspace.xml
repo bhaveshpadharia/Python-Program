@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a17f917f-8757-41b4-ae09-dc993a9aebf2" name="Default Changelist" comment="" />
+    <list default="true" id="a17f917f-8757-41b4-ae09-dc993a9aebf2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,25 +16,16 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hello.py">
+        <entry file="file://$PROJECT_DIR$/solve quadratic equation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arithmetical operations.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/area of a triangle.py">
+        <entry file="file://$PROJECT_DIR$/swap two variables.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
               <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
@@ -41,7 +34,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/solve quadratic equation.py">
+        <entry file="file://$PROJECT_DIR$/convert kilometers to miles.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -67,6 +60,8 @@
         <option value="$PROJECT_DIR$/arithmetical operations.py" />
         <option value="$PROJECT_DIR$/area of a triangle.py" />
         <option value="$PROJECT_DIR$/solve quadratic equation.py" />
+        <option value="$PROJECT_DIR$/swap two variables.py" />
+        <option value="$PROJECT_DIR$/convert kilometers to miles.py" />
       </list>
     </option>
   </component>
@@ -130,7 +125,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.solve quadratic equation">
+  <component name="RunManager" selected="Python.convert kilometers to miles">
     <configuration type="PythonConfigurationType" factoryName="Python">
       <module name="Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -197,6 +192,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="convert kilometers to miles" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/convert kilometers to miles.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="solve quadratic equation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -219,14 +236,40 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="swap two variables" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swap two variables.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python." />
       <item itemvalue="Python.arithmetical operations" />
       <item itemvalue="Python.area of a triangle" />
       <item itemvalue="Python.solve quadratic equation" />
+      <item itemvalue="Python.swap two variables" />
+      <item itemvalue="Python.convert kilometers to miles" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.convert kilometers to miles" />
+        <item itemvalue="Python.swap two variables" />
         <item itemvalue="Python.solve quadratic equation" />
         <item itemvalue="Python.area of a triangle" />
         <item itemvalue="Python.arithmetical operations" />
@@ -243,7 +286,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559026248814</updated>
-      <workItem from="1559026253449" duration="5497000" />
+      <workItem from="1559026253449" duration="6233000" />
     </task>
     <task id="LOCAL-00001" summary="hello world">
       <created>1559028381018</created>
@@ -273,11 +316,25 @@
       <option name="project" value="LOCAL" />
       <updated>1559035347356</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Python program to solve quadratic equation&#10;Quadratic equation:&#10;&#10;Quadratic equation is made from a Latin term &quot;quadrates&quot; which means square. It is a special type of equation having the form of:&#10;&#10;ax2+bx+c=0&#10;Here, &quot;x&quot; is unknown which you have to find and &quot;a&quot;, &quot;b&quot;, &quot;c&quot; specifies the numbers such that &quot;a&quot; is not equal to 0. If a = 0 then the equation becomes liner not quadratic anymore.&#10;&#10;In the equation, a, b and c are called coefficients.&#10;&#10;Let's take an example to solve the quadratic equation 8x2 + 16x + 8 = 0">
+      <created>1559035651503</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1559035651503</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Python program to swap two variables&#10;Variable swapping:&#10;&#10;In computer programming, swapping two variables specifies the mutual exchange of values of the variables. It is generally done by using a temporary variable.&#10;&#10;For example:&#10;&#10;data_item x := 1  &#10;data_item y := 0  &#10;swap (x, y)  &#10;After swapping:&#10;&#10;data_item x := 0  &#10;data_item y := 1">
+      <created>1559035748201</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1559035748201</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5497000" />
+    <option name="totallyTimeSpent" value="6233000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
@@ -290,11 +347,11 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.20249653" />
+      <window_info anchor="bottom" id="Terminal" weight="0.20249653" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32871014" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32871014" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39972338" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -313,12 +370,16 @@
     <MESSAGE value="hello world" />
     <MESSAGE value="arithmetical operations" />
     <MESSAGE value="Python program to find the area of a triangle&#10;Mathematical formula:&#10;&#10;Area of a triangle = (s*(s-a)*(s-b)*(s-c))-1/2&#10;&#10;Here s is the semi-perimeter and a, b and c are three sides of the triangle." />
-    <option name="LAST_COMMIT_MESSAGE" value="Python program to find the area of a triangle&#10;Mathematical formula:&#10;&#10;Area of a triangle = (s*(s-a)*(s-b)*(s-c))-1/2&#10;&#10;Here s is the semi-perimeter and a, b and c are three sides of the triangle." />
+    <MESSAGE value="Python program to solve quadratic equation&#10;Quadratic equation:&#10;&#10;Quadratic equation is made from a Latin term &quot;quadrates&quot; which means square. It is a special type of equation having the form of:&#10;&#10;ax2+bx+c=0&#10;Here, &quot;x&quot; is unknown which you have to find and &quot;a&quot;, &quot;b&quot;, &quot;c&quot; specifies the numbers such that &quot;a&quot; is not equal to 0. If a = 0 then the equation becomes liner not quadratic anymore.&#10;&#10;In the equation, a, b and c are called coefficients.&#10;&#10;Let's take an example to solve the quadratic equation 8x2 + 16x + 8 = 0" />
+    <MESSAGE value="Python program to swap two variables&#10;Variable swapping:&#10;&#10;In computer programming, swapping two variables specifies the mutual exchange of values of the variables. It is generally done by using a temporary variable.&#10;&#10;For example:&#10;&#10;data_item x := 1  &#10;data_item y := 0  &#10;swap (x, y)  &#10;After swapping:&#10;&#10;data_item x := 0  &#10;data_item y := 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python program to swap two variables&#10;Variable swapping:&#10;&#10;In computer programming, swapping two variables specifies the mutual exchange of values of the variables. It is generally done by using a temporary variable.&#10;&#10;For example:&#10;&#10;data_item x := 1  &#10;data_item y := 0  &#10;swap (x, y)  &#10;After swapping:&#10;&#10;data_item x := 0  &#10;data_item y := 1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Practice$area_of_a_triangle.coverage" NAME="area of a triangle Coverage Results" MODIFIED="1559035305125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Practice$p1.coverage" NAME="p1 Coverage Results" MODIFIED="1559029490057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Practice$arithmetical_operations.coverage" NAME="arithmetical operations Coverage Results" MODIFIED="1559035109027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Practice$swap_two_variables.coverage" NAME="swap two variables Coverage Results" MODIFIED="1559035707598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Practice$convert_kilometers_to_miles.coverage" NAME="convert kilometers to miles Coverage Results" MODIFIED="1559036364612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Practice$solve_quadratic_equation.coverage" NAME="solve quadratic equation Coverage Results" MODIFIED="1559035547151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
@@ -358,6 +419,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/solve quadratic equation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swap two variables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/convert kilometers to miles.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
